@@ -1,2 +1,2 @@
 # Splunk-Query-Repository
-A repository of Splunk Ssearches
+A repository of Splunk Searches
